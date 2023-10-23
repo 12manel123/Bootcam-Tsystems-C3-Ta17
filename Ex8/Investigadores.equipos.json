@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65368c8e42068a2475c39439"
+  },
+  "NumSerie": "E001",
+  "Nombre": "Laboratorio 1",
+  "id_Facultad": "65368c6142068a2475c39433"
+},
+{
+  "_id": {
+    "$oid": "65368c8e42068a2475c3943a"
+  },
+  "NumSerie": "E002",
+  "Nombre": "Investigación",
+  "id_Facultad": "65368c6142068a2475c39434"
+},
+{
+  "_id": {
+    "$oid": "65368c8e42068a2475c3943b"
+  },
+  "NumSerie": "E003",
+  "Nombre": "Laboratorio 2",
+  "id_Facultad": "65368c6142068a2475c39435"
+}]

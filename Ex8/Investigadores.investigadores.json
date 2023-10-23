@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65368c6c42068a2475c39436"
+  },
+  "DNI": "12345678T",
+  "NomApels": "Juan Pérez",
+  "id_Facultad": "65368c6142068a2475c39433"
+},
+{
+  "_id": {
+    "$oid": "65368c6c42068a2475c39437"
+  },
+  "DNI": "87654321C",
+  "NomApels": "Maria Gómez",
+  "id_Facultad": "65368c6142068a2475c39434"
+},
+{
+  "_id": {
+    "$oid": "65368c6c42068a2475c39438"
+  },
+  "DNI": "98765432Y",
+  "NomApels": "Pedro López",
+  "id_Facultad": "65368c6142068a2475c39435"
+}]
