@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65368ab842068a2475c39415"
+  },
+  "Nombre": "El Viaje",
+  "CalificacionEdad": 12
+},
+{
+  "_id": {
+    "$oid": "65368ab842068a2475c39416"
+  },
+  "Nombre": "Noche de Misterio",
+  "CalificacionEdad": 18
+},
+{
+  "_id": {
+    "$oid": "65368ab842068a2475c39417"
+  },
+  "Nombre": "Aventuras en la Selva",
+  "CalificacionEdad": 7
+}]
