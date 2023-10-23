@@ -2,20 +2,17 @@
   "_id": {
     "$oid": "6536826042068a2475c393fa"
   },
-  "Codigo": 1,
   "Nombre": "Samsung"
 },
 {
   "_id": {
     "$oid": "6536826042068a2475c393fb"
   },
-  "Codigo": 2,
   "Nombre": "Apple"
 },
 {
   "_id": {
     "$oid": "6536826042068a2475c393fc"
   },
-  "Codigo": 3,
   "Nombre": "Sony"
 }]
