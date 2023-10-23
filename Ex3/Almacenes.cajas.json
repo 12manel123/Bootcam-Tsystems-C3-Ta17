@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65368a3942068a2475c3940f"
+  },
+  "NumReferencia": "CAJA1",
+  "Contenido": "Libros",
+  "Valor": 500,
+  "id_Almacen": "65368a2342068a2475c3940c"
+},
+{
+  "_id": {
+    "$oid": "65368a3942068a2475c39410"
+  },
+  "NumReferencia": "CAJA2",
+  "Contenido": "Electronicos",
+  "Valor": 1000,
+  "id_Almacen": "65368a2342068a2475c3940d"
+},
+{
+  "_id": {
+    "$oid": "65368a3942068a2475c39411"
+  },
+  "NumReferencia": "CAJA3",
+  "Contenido": "Ropa",
+  "Valor": 800,
+  "id_Almacen": "65368a2342068a2475c3940e"
+}]
