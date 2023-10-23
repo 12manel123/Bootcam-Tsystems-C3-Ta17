@@ -4,8 +4,12 @@
   },
   "DNI": "12345678T",
   "NomApels": "Juan Pérez",
-  "id_Despacho": "65368b0e42068a2475c3941b",
-  "id_DNIJefe": "65368b0342068a2475c39419"
+  "id_Despacho": {
+    "$oid": "65368b0e42068a2475c3941b"
+  },
+  "id_DNIJefe": {
+    "$oid": "65368b0342068a2475c39419"
+  }
 },
 {
   "_id": {
@@ -13,7 +17,9 @@
   },
   "DNI": "87654321C",
   "NomApels": "Maria Gómez",
-  "id_Despacho": "65368b0e42068a2475c3941d"
+  "id_Despacho": {
+    "$oid": "65368b0e42068a2475c3941d"
+  }
 },
 {
   "_id": {
@@ -21,6 +27,10 @@
   },
   "DNI": "98765432Y",
   "NomApels": "Pedro López",
-  "Despacho": "65368b0e42068a2475c3941c",
-  "id_DNIJefe": "65368b0342068a2475c39419"
+  "Despacho": {
+    "$oid": "65368b0e42068a2475c3941c"
+  },
+  "id_DNIJefe": {
+    "$oid": "65368b0342068a2475c39419"
+  }
 }]
