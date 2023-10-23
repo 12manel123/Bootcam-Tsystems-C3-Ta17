@@ -2,7 +2,6 @@
   "_id": {
     "$oid": "6536842c42068a2475c39403"
   },
-  "Codigo": 1,
   "Nombre": "Ventas",
   "Presupuesto": 50000
 },
@@ -10,7 +9,6 @@
   "_id": {
     "$oid": "6536842c42068a2475c39404"
   },
-  "Codigo": 2,
   "Nombre": "Marketing",
   "Presupuesto": 60000
 },
@@ -18,7 +16,6 @@
   "_id": {
     "$oid": "6536842c42068a2475c39405"
   },
-  "Codigo": 3,
   "Nombre": "Desarrollo",
   "Presupuesto": 75000
 }]
