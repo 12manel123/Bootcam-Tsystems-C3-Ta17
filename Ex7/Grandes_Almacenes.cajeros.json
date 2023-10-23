@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65368bec42068a2475c39427"
+  },
+  "Codigo": 1,
+  "NomApels": "Juan Pérez"
+},
+{
+  "_id": {
+    "$oid": "65368bec42068a2475c39428"
+  },
+  "Codigo": 2,
+  "NomApels": "Maria Gómez"
+},
+{
+  "_id": {
+    "$oid": "65368bec42068a2475c39429"
+  },
+  "Codigo": 3,
+  "NomApels": "Pedro López"
+}]
