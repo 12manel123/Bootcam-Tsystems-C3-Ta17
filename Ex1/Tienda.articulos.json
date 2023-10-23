@@ -2,7 +2,7 @@
   "_id": {
     "$oid": "653682b442068a2475c393fd"
   },
-  "Nombre": "Artículo 1",
+  "Nombre": "Samsung Galaxy Note",
   "Precio": 100,
   "id_Fabricante": "6536826042068a2475c393fa"
 },
@@ -10,15 +10,15 @@
   "_id": {
     "$oid": "653682b442068a2475c393fe"
   },
-  "Nombre": "Artículo 2",
+  "Nombre": "Iphone 5",
   "Precio": 150,
   "id_Fabricante": "6536826042068a2475c393fb"
 },
 {
   "_id": {
-    "$oid": "653682b442068a2475c393ff"
+    "$oid": "MackBook"
   },
   "Nombre": "Artículo 3",
   "Precio": 200,
-  "id_Fabricante": "6536826042068a2475c393fc"
+  "id_Fabricante": "6536826042068a2475c393fb"
 }]
