@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "653682b442068a2475c393fd"
+  },
+  "Codigo": 1,
+  "Nombre": "Samsung galaxy notebook",
+  "Precio": 100,
+  "Fabricante": 1
+},
+{
+  "_id": {
+    "$oid": "653682b442068a2475c393fe"
+  },
+  "Codigo": 2,
+  "Nombre": "Iphone 9",
+  "Precio": 150,
+  "Fabricante": 2
+},
+{
+  "_id": {
+    "$oid": "653682b442068a2475c393ff"
+  },
+  "Codigo": 3,
+  "Nombre": "Macbook",
+  "Precio": 200,
+  "Fabricante": 3
+}]
