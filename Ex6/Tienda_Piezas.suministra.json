@@ -3,22 +3,34 @@
     "$oid": "65368bb042068a2475c39424"
   },
   "Precio": 5,
-  "id_CodigoPieza": "65368b6c42068a2475c3941e",
-  "id_Proveedor": "65368b9642068a2475c39421"
+  "id_CodigoPieza": {
+    "$oid": "65368b6c42068a2475c3941e"
+  },
+  "id_Proveedor": {
+    "$oid": "65368b9642068a2475c39421"
+  }
 },
 {
   "_id": {
     "$oid": "65368bb042068a2475c39425"
   },
   "Precio": 4,
-  "id_CodigoPieza": "65368b6c42068a2475c3941f",
-  "id_Proveedor": "65368b9642068a2475c39421"
+  "id_CodigoPieza": {
+    "$oid": "65368b6c42068a2475c3941f"
+  },
+  "id_Proveedor": {
+    "$oid": "6536bd07dc0ccf0af983cefa"
+  }
 },
 {
   "_id": {
     "$oid": "65368bb042068a2475c39426"
   },
   "Precio": 3,
-  "id_CodigoPieza": "65368b6c42068a2475c3941g",
-  "id_Proveedor": "65368b9642068a2475c39421"
+  "id_CodigoPieza": {
+    "$oid": "65368b6c42068a2475c3941f"
+  },
+  "id_Proveedor": {
+    "$oid": "65368b9642068a2475c39421"
+  }
 }]
