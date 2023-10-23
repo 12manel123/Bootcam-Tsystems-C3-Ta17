@@ -4,7 +4,9 @@
   },
   "NumSerie": "E001",
   "Nombre": "Laboratorio 1",
-  "id_Facultad": "65368c6142068a2475c39433"
+  "id_Facultad": {
+    "$oid": "65368c6142068a2475c39433"
+  }
 },
 {
   "_id": {
@@ -12,7 +14,9 @@
   },
   "NumSerie": "E002",
   "Nombre": "Investigación",
-  "id_Facultad": "65368c6142068a2475c39434"
+  "id_Facultad": {
+    "$oid": "65368c6142068a2475c39434"
+  }
 },
 {
   "_id": {
@@ -20,5 +24,7 @@
   },
   "NumSerie": "E003",
   "Nombre": "Laboratorio 2",
-  "id_Facultad": "65368c6142068a2475c39435"
+  "id_Facultad": {
+    "$oid": "65368c6142068a2475c39435"
+  }
 }]
