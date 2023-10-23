@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "653682b442068a2475c393fd"
+  },
+  "Codigo": 1,
+  "Nombre": "Artículo 1",
+  "Precio": 100,
+  "id_Fabricante": "6536826042068a2475c393fa"
+},
+{
+  "_id": {
+    "$oid": "653682b442068a2475c393fe"
+  },
+  "Codigo": 2,
+  "Nombre": "Artículo 2",
+  "Precio": 150,
+  "id_Fabricante": "6536826042068a2475c393fb"
+},
+{
+  "_id": {
+    "$oid": "653682b442068a2475c393ff"
+  },
+  "Codigo": 3,
+  "Nombre": "Artículo 3",
+  "Precio": 200,
+  "id_Fabricante": "6536826042068a2475c393fc"
+}]

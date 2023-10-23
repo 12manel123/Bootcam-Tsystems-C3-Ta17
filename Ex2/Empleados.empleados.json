@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6536840642068a2475c39400"
+  },
+  "DNI": "12345678",
+  "Nombre": "Juan",
+  "Apellidos": "Perez",
+  "id_Departamento": "6536842c42068a2475c39403"
+},
+{
+  "_id": {
+    "$oid": "6536840642068a2475c39401"
+  },
+  "DNI": "87654321",
+  "Nombre": "Maria",
+  "Apellidos": "Gomez",
+  "id_Departamento": "6536842c42068a2475c39404"
+},
+{
+  "_id": {
+    "$oid": "6536840642068a2475c39402"
+  },
+  "DNI": "98765432",
+  "Nombre": "Pedro",
+  "Apellidos": "Lopez",
+  "id_Departamento": "6536842c42068a2475c39403"
+}]
