@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "65368b9642068a2475c39421"
+  },
+  "Nombre": "Ferreterias Manolo"
+},
+{
+  "_id": {
+    "$oid": "65368b9642068a2475c39422"
+  },
+  "Nombre": "IKEA"
+},
+{
+  "_id": {
+    "$oid": "65368b9642068a2475c39423"
+  },
+  "Nombre": "Herreria de Pedro"
+}]
