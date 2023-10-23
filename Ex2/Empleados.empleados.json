@@ -5,7 +5,9 @@
   "DNI": "12345678",
   "Nombre": "Juan",
   "Apellidos": "Perez",
-  "id_Departamento": "6536842c42068a2475c39403"
+  "id_Departamento": {
+    "$oid": "6536842c42068a2475c39403"
+  }
 },
 {
   "_id": {
@@ -14,7 +16,9 @@
   "DNI": "87654321",
   "Nombre": "Maria",
   "Apellidos": "Gomez",
-  "id_Departamento": "6536842c42068a2475c39404"
+  "id_Departamento": {
+    "$oid": "6536842c42068a2475c39404"
+  }
 },
 {
   "_id": {
@@ -23,5 +27,7 @@
   "DNI": "98765432",
   "Nombre": "Pedro",
   "Apellidos": "Lopez",
-  "id_Departamento": "6536842c42068a2475c39403"
+  "id_Departamento": {
+    "$oid": "6536842c42068a2475c39403"
+  }
 }]
