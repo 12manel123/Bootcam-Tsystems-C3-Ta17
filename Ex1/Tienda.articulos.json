@@ -4,7 +4,9 @@
   },
   "Nombre": "Samsung Galaxy Note",
   "Precio": 100,
-  "id_Fabricante": "6536826042068a2475c393fa"
+  "id_Fabricante": {
+    "$oid": "6536826042068a2475c393fa"
+  }
 },
 {
   "_id": {
@@ -12,7 +14,9 @@
   },
   "Nombre": "Iphone 5",
   "Precio": 150,
-  "id_Fabricante": "6536826042068a2475c393fb"
+  "id_Fabricante": {
+    "$oid": "6536826042068a2475c393fb"
+  }
 },
 {
   "_id": {
@@ -20,5 +24,7 @@
   },
   "Nombre": "Artículo 3",
   "Precio": 200,
-  "id_Fabricante": "6536826042068a2475c393fb"
+  "id_Fabricante": {
+    "$oid": "6536826042068a2475c393fc"
+  }
 }]
