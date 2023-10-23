@@ -4,7 +4,9 @@
   },
   "DNI": "12345678T",
   "NomApels": "Juan Pérez",
-  "id_Facultad": "65368c6142068a2475c39433"
+  "id_Facultad": {
+    "$oid": "65368c6142068a2475c39433"
+  }
 },
 {
   "_id": {
@@ -12,7 +14,9 @@
   },
   "DNI": "87654321C",
   "NomApels": "Maria Gómez",
-  "id_Facultad": "65368c6142068a2475c39434"
+  "id_Facultad": {
+    "$oid": "65368c6142068a2475c39434"
+  }
 },
 {
   "_id": {
@@ -20,5 +24,7 @@
   },
   "DNI": "98765432Y",
   "NomApels": "Pedro López",
-  "id_Facultad": "65368c6142068a2475c39435"
+  "id_Facultad": {
+    "$oid": "65368c6142068a2475c39435"
+  }
 }]
