@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65368a9642068a2475c39412"
+  },
+  "Codigo": 1,
+  "Nombre": "Sala 1",
+  "Pelicula": 101
+},
+{
+  "_id": {
+    "$oid": "65368a9642068a2475c39413"
+  },
+  "Codigo": 2,
+  "Nombre": "Sala 2",
+  "Pelicula": 102
+},
+{
+  "_id": {
+    "$oid": "65368a9642068a2475c39414"
+  },
+  "Codigo": 3,
+  "Nombre": "Sala 3",
+  "Pelicula": 103
+}]
