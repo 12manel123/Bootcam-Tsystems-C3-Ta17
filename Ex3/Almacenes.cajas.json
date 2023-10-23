@@ -5,7 +5,9 @@
   "NumReferencia": "CAJA1",
   "Contenido": "Libros",
   "Valor": 500,
-  "id_Almacen": "65368a2342068a2475c3940c"
+  "id_Almacen": {
+    "$oid": "65368a2342068a2475c3940c"
+  }
 },
 {
   "_id": {
@@ -14,7 +16,9 @@
   "NumReferencia": "CAJA2",
   "Contenido": "Electronicos",
   "Valor": 1000,
-  "id_Almacen": "65368a2342068a2475c3940d"
+  "id_Almacen": {
+    "$oid": "65368a2342068a2475c3940d"
+  }
 },
 {
   "_id": {
@@ -23,5 +27,7 @@
   "NumReferencia": "CAJA3",
   "Contenido": "Ropa",
   "Valor": 800,
-  "id_Almacen": "65368a2342068a2475c3940e"
+  "id_Almacen": {
+    "$oid": "65368a2342068a2475c3940e"
+  }
 }]
